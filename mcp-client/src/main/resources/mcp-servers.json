@@ -8,5 +8,16 @@
         "C:/Users/oumak/IdeaProjects/mcp-demo-spring-python"
       ]
     }
+  },
+    "MCP-Server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\oumak\\IdeaProjects\\mcp-demo-spring-python\\python-mcp-server\\server.py"
+      ]
+    }
   }
-}
