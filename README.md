@@ -16,4 +16,5 @@ Terminal :
 
 
 Swagger :
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e9de9eab-8207-4f15-b8b2-dd3f1fb54b3b)
+
