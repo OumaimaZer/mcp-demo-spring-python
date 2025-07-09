@@ -23,4 +23,6 @@ Frontend ChatBot :
 ![image](https://github.com/user-attachments/assets/5e2f88d0-60d0-49f1-bfaf-c8d7adfc520d)
 ![image](https://github.com/user-attachments/assets/4376ad79-7af0-4da7-8f07-40aa4298bcdd)
 
+![image](https://github.com/user-attachments/assets/e3cc9ccb-1a86-48a9-b68a-2b83eec8c4d7)
+![image](https://github.com/user-attachments/assets/a5ff9495-b952-48a7-9dc4-0ff841bcc19f)
 
