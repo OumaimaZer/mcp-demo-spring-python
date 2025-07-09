@@ -19,7 +19,8 @@ Swagger :
 ![image](https://github.com/user-attachments/assets/e9de9eab-8207-4f15-b8b2-dd3f1fb54b3b)
 
 Frontend ChatBot :
-![image](https://github.com/user-attachments/assets/7ce70baf-4903-41e2-8884-12217b0f0e34)
-![image](https://github.com/user-attachments/assets/105c7b8d-9961-4a2c-bf00-3a5f46f42b96)
-![image](https://github.com/user-attachments/assets/fb7b198a-3ca5-451a-a1a6-13b880cc2852)
+![image](https://github.com/user-attachments/assets/5137ecc3-5d97-43fe-bdc2-6d0586e12b2d)
+![image](https://github.com/user-attachments/assets/5e2f88d0-60d0-49f1-bfaf-c8d7adfc520d)
+![image](https://github.com/user-attachments/assets/4376ad79-7af0-4da7-8f07-40aa4298bcdd)
+
 
