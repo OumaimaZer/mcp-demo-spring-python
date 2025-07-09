@@ -15,6 +15,7 @@ public class McpClientApplication {
     public static void main(String[] args) {
         SpringApplication.run(McpClientApplication.class, args);
     }
+
     @Bean
     CommandLineRunner run(List<McpSyncClient> clients) {
         return args -> {
@@ -32,7 +33,7 @@ public class McpClientApplication {
                      "companyName":"OCP"
                     }
                     """;
-            McpSchema.CallToolResult result = clients.get(0).callTool(new McpSchema.CallToolRequest("getStockByCompany", params));
+            McpSchema.CallToolResult result = clients.get(0).callTool(new McpSchema.CallToolRequest("getStockByCompanyName", params));
             System.out.println(result.content().get(0).type());
         };
     }

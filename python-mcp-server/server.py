@@ -18,5 +18,13 @@ def get_info_about(name: str) -> dict:
         "email": "med@gmail.com"
     }
 
+@mcp.tool()
+def greet_user() -> str:
+    """
+    Greet a user by name with a friendly welcome message.
+    """
+    return f"Bonjour, comment puis je vous aider aujourd'hui?"
+
+
 if __name__ == "__main__":
-    mcp.run()  # 🔥 This is the critical missing part — runs MCP over stdio
+    mcp.run()
