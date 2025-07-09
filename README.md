@@ -12,6 +12,7 @@ Utilisation d'Ollama avec Llama3.1 pour l'IA
 
 ## Architecture Globale du projet :
 ![image](https://github.com/user-attachments/assets/9f792b32-6f86-43d9-b15e-89c38f0873aa)
+
 Modules Clés
  - mcp-client	Spring Boot, SSE, Stdio	Routeur entre frontend/backends
  - mcp-server	Spring AI, REST	Gestion des données financières (actions)
@@ -20,11 +21,11 @@ Modules Clés
 ## Flux de Données
 1. Frontend → Envoie une requête au mcp-client
 2. mcp-client :
-  - Route vers mcp-server (pour les outils financiers)
-  - Ou vers python-mcp-server (pour d'autres services)
+   - Route vers mcp-server (pour les outils financiers)
+   - Ou vers python-mcp-server (pour d'autres services)
 3. Backends :
-  - Traitement → Renvoi des données au client
-  - Appel à Llama3.1 si nécessaire
+   - Traitement → Renvoi des données au client
+   - Appel à Llama3.1 si nécessaire
 
 ## Description :
 **Description détaillée du projet mcp-demo-spring-python**
