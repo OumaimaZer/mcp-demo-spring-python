@@ -11,7 +11,8 @@ Utilisation d'Ollama avec Llama3.1 pour l'IA
  - Utiliser l'IA pour traiter les requêtes
 
 ## Architecture Globale du projet :
-![image](https://github.com/user-attachments/assets/9f792b32-6f86-43d9-b15e-89c38f0873aa)
+<img width="1007" height="246" alt="image" src="https://github.com/user-attachments/assets/00031523-0fb0-48f5-bbf5-a257617106a0" />
+
 
 Modules Clés
  - mcp-client	Spring Boot, SSE, Stdio	Routeur entre frontend/backends
@@ -38,6 +39,8 @@ Le projet mcp-demo-spring-python est une application innovante qui intègre harm
 ![image](https://github.com/user-attachments/assets/05488ae1-df73-4ce2-88f3-52235808d8e5)
 
 ### PostMan :
+**Postman** est un outil de développement largement utilisé pour interagir avec des APIs. Il permet d'envoyer des requêtes HTTP (comme GET, POST, ou PUT), d'inspecter les réponses, de gérer des environnements de test et de documenter des APIs. Avec une interface intuitive, Postman simplifie le test et le débogage d'API, que ce soit pour des projets simples ou des architectures complexes. Il offre également des fonctionnalités avancées comme l'automatisation des tests et la collaboration en équipe, ce qui en fait un outil essentiel pour les développeurs et les testeurs.
+
 avec HTTP :
 ![image](https://github.com/user-attachments/assets/12f9a263-76bb-4de1-b4a4-4cf3de3a7291)
 ![image](https://github.com/user-attachments/assets/8b6b0f9b-91f0-4d72-a1f4-8dbf92a3f2d5)
@@ -52,6 +55,7 @@ avec HTTP :
 
 
 ### Swagger :
+Swagger est un framework open source dédié à la conception, la documentation et l'utilisation d'APIs REST. Il permet de décrire la structure des APIs (endpoints, paramètres, réponses) dans un format standardisé (OpenAPI/Swagger Specification), génère automatiquement une documentation interactive, et offre des outils pour tester les APIs directement depuis une interface web. Swagger facilite la collaboration entre développeurs et consommateurs d'APIs en fournissant une référence claire et normalisée.
 ![image](https://github.com/user-attachments/assets/e9de9eab-8207-4f15-b8b2-dd3f1fb54b3b)
 
 ### Frontend ChatBot :
